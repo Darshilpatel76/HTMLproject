@@ -1,3 +1,4 @@
+<!-- this is css for all files.-->
 body{
 	font-family: 'Open Sans', sans-serif;
 	margin: 0 auto;
@@ -6,7 +7,7 @@ body{
 h1,h2,h3{
 	color: brown;
 }
-p{ 
+p{
 	text-align: justify;
 }
 ul{
